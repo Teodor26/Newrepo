@@ -8,6 +8,6 @@ namespace NewFile
 {
     public class Class1
     {
-
+        public int r = 0;
     }
 }
